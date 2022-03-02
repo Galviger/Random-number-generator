@@ -1,2 +1,1 @@
-#Random number generator#
-This was an asignment I did for school, so I'll just share it here.
+I decided to start of with a random number generator with a message box containing the number.
