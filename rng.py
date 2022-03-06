@@ -1,4 +1,4 @@
-import random as rand
+import random
 import tkinter as tk
 
 root = tk.Tk()
@@ -21,7 +21,7 @@ canvas1.create_window(130, 80, window=label2)
 def getRandomNumber ():
     num1 = entry1.get()
     num2 = entry2.get()
-    number = rand.randrange(int(num1), int(num2))
+    number = random.randrange(int(num1), int(num2))
     label3 = tk.Label(root, text=number)
     canvas1.create_window(200, 220, window=label3)
 
