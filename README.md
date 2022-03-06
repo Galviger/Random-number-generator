@@ -1,1 +1,1 @@
-I decided to start of with a random number generator with a message box containing the number.
+This is a random number generator using tkinter to get inputs and show you the output. The code is probably too long for such a simple programme, but I'm not a profesional. If you have any ideas on how to improve, please, share them with me.
